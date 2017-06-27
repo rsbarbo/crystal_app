@@ -1,0 +1,18 @@
+name: crystal_app
+version: 0.1.0
+
+authors:
+  - rsbarbo <rsbarbo@gmail.com>
+
+targets:
+  crystal_app:
+    main: src/crystal_app.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+crystal: 0.22.0
+
+license: MIT
