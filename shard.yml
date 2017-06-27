@@ -2,7 +2,7 @@ name: crystal_app
 version: 0.1.0
 
 authors:
-  - rsbarbo <rsbarbo@gmail.com>
+  - rsbarbo <https://github.com/rsbarbo>
 
 targets:
   crystal_app:
