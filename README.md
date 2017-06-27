@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[Raphael Barbo]](https://github.com/rsbarbo) - creator, maintainer
+- [Raphael Barbo](https://github.com/rsbarbo) - creator, maintainer
