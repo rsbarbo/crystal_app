@@ -1,5 +1,7 @@
-require "./crystal_app/*"
+require "kemal"
 
-module CrystalApp
-  # TODO Put your code here
+get "/" do
+  "Hello World!"
 end
+
+Kemal.run
