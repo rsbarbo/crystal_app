@@ -1,4 +1,7 @@
+/.shards/
 /doc/
 /lib/
 /bin/
-/.shards/
+/dev/
+sentry
+crystal_app
