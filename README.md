@@ -1,18 +1,30 @@
 # crystal_app
 
-TODO: Write a description here
+This is my first Crystal-Lang application. The idea is to consume an API
+(to be defined) and have it render to a nice HTML page.
 
 ## Installation
 
-TODO: Write installation instructions here
+- Clone Repo https://github.com/rsbarbo/crystal_app
+- Install Sentry `curl -fsSLo- https://raw.githubusercontent.com/samueleaton/sentry/master/install.rb | ruby`
+- Check your `shard.yml` file for dependencies:
+
+```
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+```
+
+- Update you shard by running `shards update` on your terminal.
 
 ## Usage
 
-TODO: Write usage instructions here
+TO BE ADVISED
 
 ## Development
 
-TODO: Write development instructions here
+TO BE ADVISED
 
 ## Contributing
 
